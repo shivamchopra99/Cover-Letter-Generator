@@ -1,4 +1,4 @@
-package Response;
+package com.CoverLetterGenerator.Response;
 
 public class CoverLetterResponse {
     private String coverLetter;
